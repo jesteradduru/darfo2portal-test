@@ -45,7 +45,7 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/darfo2portal-test/",
   "id": "/darfo2portal-test/",
   "display": "standalone",
   "theme_color": "#000000",
