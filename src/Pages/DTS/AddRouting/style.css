@@ -1,0 +1,9 @@
+.nav-tabs {
+    overflow-x: auto !important;
+   overflow-y: hidden !important;
+   display: -webkit-box !important;  
+   display: -moz-box !important;   
+ }
+.nav-tabs>li {
+     float:none !important;
+}

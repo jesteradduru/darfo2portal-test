@@ -1,0 +1,63 @@
+$green: #2D6A4F;
+$super_light_green: #D8F3DC;
+$light_green: #52B788;
+$dark_green: #1B4332;
+
+
+// theme colors
+// backgrounds
+.bg-green{
+    background-color: $green !important;
+}
+
+.bg-dark-green{
+    background-color: $dark_green !important;
+}
+
+.bg-light-green{
+    background-color: $light_green !important;
+}
+
+.bg-super-light-green{
+    background-color: $super_light_green !important;
+}
+
+.bg-light-gray{
+    background-color: #afafaf !important;
+}
+// text
+.text-green{
+    color: $green !important;
+}
+
+.text-dark-green{
+    color: $dark_green !important;
+}
+
+.text-light-green{
+    color: $light_green !important;
+}
+
+.text-super-light-green{
+    color: $super_light_green !important;
+}
+
+.center-element{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.element-wrapper{
+    position: relative;
+}
+
+.select__control{
+    min-width: 300px;
+    text-align: start;
+}
+
+.pre-wrap-text{
+    white-space: pre-wrap;
+}

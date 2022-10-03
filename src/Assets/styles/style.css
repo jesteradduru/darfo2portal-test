@@ -1,0 +1,55 @@
+.bg-green {
+  background-color: #2D6A4F !important;
+}
+
+.bg-dark-green {
+  background-color: #1B4332 !important;
+}
+
+.bg-light-green {
+  background-color: #52B788 !important;
+}
+
+.bg-super-light-green {
+  background-color: #D8F3DC !important;
+}
+
+.bg-light-gray {
+  background-color: #afafaf !important;
+}
+
+.text-green {
+  color: #2D6A4F !important;
+}
+
+.text-dark-green {
+  color: #1B4332 !important;
+}
+
+.text-light-green {
+  color: #52B788 !important;
+}
+
+.text-super-light-green {
+  color: #D8F3DC !important;
+}
+
+.center-element {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.element-wrapper {
+  position: relative;
+}
+
+.select__control {
+  min-width: 300px;
+  text-align: start;
+}
+
+.pre-wrap-text {
+  white-space: pre-wrap;
+}/*# sourceMappingURL=style.css.map */
