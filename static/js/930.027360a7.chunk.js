@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkda_rfo_02_portal=self.webpackChunkda_rfo_02_portal||[]).push([[930],{3992:function(a,e,t){t.r(e),t.d(e,{default:function(){return r}});t(2791);var s=t(9051),c=t.p+"static/media/DSD.f57ad2bd0a9d84215ec5.pdf",n=t(184),r=function(){return(0,n.jsxs)(s.W2,{children:[(0,n.jsx)("h3",{className:"mt-3",children:"DTS Manual"}),(0,n.jsx)("embed",{src:c,className:"w-100",style:{height:"80vh"},type:"application/pdf"})]})}}}]);
+//# sourceMappingURL=930.027360a7.chunk.js.map

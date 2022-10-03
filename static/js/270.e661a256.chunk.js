@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkda_rfo_02_portal=self.webpackChunkda_rfo_02_portal||[]).push([[270],{9270:function(a,n,t){t.r(n);t(2791);var e=t(370),o=t(9126),s=t(184);n.default=function(){return(0,s.jsxs)(e.VY,{children:[(0,s.jsx)(e.tx,{}),(0,s.jsx)(e.az,{appName:"Management of Communications",icon:(0,s.jsx)(o.DRM,{}),target:"_blank",to:"/dts/managementOfCommunications/inbox"})]})}}}]);
+//# sourceMappingURL=270.e661a256.chunk.js.map
